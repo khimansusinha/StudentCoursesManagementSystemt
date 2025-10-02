@@ -1,0 +1,2 @@
+Conflict in time for StudentID: 111 for class timing: 11 For Course A 
+Conflict in time for StudentID: 333 for class timing: 11 For Course A 

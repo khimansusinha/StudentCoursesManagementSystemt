@@ -1,0 +1,4 @@
+111:D,C,B::Satisfaction Rating = 7 
+222:F,E,D::Satisfaction Rating = 8 
+333:D,F,E::Satisfaction Rating = 7 
+AverageSatisfactionRating = 7
